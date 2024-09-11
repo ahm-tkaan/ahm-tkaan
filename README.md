@@ -2,6 +2,7 @@
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
 
+- 📄 I am a student at **Konya Technical University.**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -9,7 +10,6 @@
 
 - 📫 How to reach me **akaanclnk@gmail.com**
 
-- 📄 I am a student at [Konya Technical University.](Konya Technical University.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
