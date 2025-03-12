@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Hakkımda <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🎓 **Konya Teknik Üniversitesi**'nde bilgisayar mühendisliği öğrencisiyim
+- 🎓 **Konya Teknik Üniversitesi**'nde bilgisayar öğrencisiyim
 - 📱 Flutter ile mobil uygulama geliştirme konusunda tutkuluyum
 - 🌱 Şu anda **Flutter**, **Dart** ve **Python** üzerinde kendimi geliştiriyorum
 - 💡 Yaratıcı çözümler ve pratik hayat hileleri konusunda bana danışabilirsiniz
