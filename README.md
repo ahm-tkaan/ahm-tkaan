@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Computer+Engineering+Student;Flutter+%26+Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Computer+Student;Flutter+%26+Python+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Hakkımda <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
