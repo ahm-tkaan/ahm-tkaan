@@ -1,27 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ahmet Kaan</h1>
-<h3 align="center">A passionate mobile developer from Turkey</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  # Merhaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, Ben Ahmet Kaan
 
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=if(brain+!=+empty)+%7B+keepCoding()+%7D+else+%7B+orderCoffee()+%7D;" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=if(brain+!=+empty)+%7B+keepCoding()+%7D+else+%7B+orderCoffee()+%7D;" alt="Typing SVG" /></a>
+  
+  <p align="center">
+    <a href="https://twitter.com/ahm_tkaan" target="blank">
+      <img src="https://img.shields.io/twitter/follow/ahm_tkaan?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=ahm-tkaan&style=for-the-badge&color=6c5ce7&label=Ziyaretçiler" alt="profile views" />
+  </p>
+</div>
 
-- 📄 I am a student at **Konya Technical University.**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Computer+Engineering+Student;Flutter+%26+Python+Developer" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **Flutter**
+## 👨‍💻 Hakkımda <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💬 Ask me about **life hacks :D.**
+- 🎓 **Konya Teknik Üniversitesi**'nde bilgisayar mühendisliği öğrencisiyim
+- 📱 Flutter ile mobil uygulama geliştirme konusunda tutkuluyum
+- 🌱 Şu anda **Flutter**, **Dart** ve **Python** üzerinde kendimi geliştiriyorum
+- 💡 Yaratıcı çözümler ve pratik hayat hileleri konusunda bana danışabilirsiniz
+- 🚀 Yeni teknolojileri öğrenmeye ve projeler geliştirmeye her zaman açığım
 
-- 📫 How to reach me **akaanclnk@gmail.com**
+## 🛠️ Teknoloji ve Araçlar <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahm_tkaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahm_tkaan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmet-kaan-çelenk-27528129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-kaan-çelenk-27528129b" height="30" width="40" /></a>
-<a href="https://instagram.com/ahm_tkaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahm_tkaan" height="30" width="40" /></a>
-<a href="https://www.behance.net/ahmetkaanelenk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmetkaanelenk" height="30" width="40" /></a>
-<a href="https://discord.gg/ahm_tkaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahm_tkaan" height="30" width="40" /></a>
-</p>
+## 📊 GitHub İstatistikleri
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahm-tkaan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahm-tkaan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/ahm_tkaan" target="blank"><img src="https://img.shields.io/twitter/follow/ahm_tkaan?logo=twitter&style=for-the-badge" alt="ahm_tkaan" /></a> </p>
-<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=ahm-tkaan&label=Profile%20Views&color=45b0f2&style=flat" alt="ahm-tkaan" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-tkaan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 Son Projelerim
+
+<div align="center">
+  <a href="https://github.com/ahm-tkaan/flutter-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahm-tkaan&repo=flutter-project&theme=tokyonight&hide_border=true" />
+  </a>
+  <!-- Daha fazla proje eklenebilir -->
+</div>
+
+## 🎮 Eğlence Köşesi
+
+<div align="center">
+  <details>
+    <summary>🎧 Şu anda dinliyorum</summary>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ahm_tkaan&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Profile" />
+  </details>
+
+  <details>
+    <summary>💻 Programlama Şakası</summary>
+    <br>
+    <i>Bir programcı neden gözlük takar?<br>Çünkü C# göremez! 😄</i>
+  </details>
+  
+  <details>
+    <summary>🏆 Programlama Seviyem</summary>
+    <br>
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+    <br>
+    <progress value="70" max="100"></progress><br>
+    <i>⚡ %70 tamamlandı... Kahve yüklemesi gerekiyor ☕</i>
+  </details>
+  
+  <details>
+    <summary>🧠 Rastgele Dev Bilgisi</summary>
+    <br>
+    <i>Bilgisayar faresi 1964 yılında icat edildi ve orijinal adı "X-Y Position Indicator for a Display System" idi.</i>
+  </details>
+</div>
+
+## 📫 İletişim
+
+<div align="center">
+  <a href="mailto:akaanclnk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/ahm_tkaan">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/ahmet-kaan-çelenk-27528129b">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ahm_tkaan">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.behance.net/ahmetkaanelenk">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://discord.gg/ahm_tkaan">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahm-tkaan/ahm-tkaan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  ### "Kod yazmak, dünyayı değiştirmektir - bir seferde bir satır."
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered by coffee badge" />
+  <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="works on my machine badge" />
+</div>
