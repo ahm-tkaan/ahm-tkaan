@@ -115,25 +115,6 @@ const ahmetKaan = {
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  
-  <!-- GitHub Stats - Alternatif API -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahm-tkaan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ahm-tkaan&show_icons=true&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahm-tkaan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=c9d1d9" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-tkaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-tkaan&layout=compact&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm-tkaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=c9d1d9" />
-  </picture>
-
-</div>
-
 <div align="center">
   
   <!-- Streak Stats - Alternatif URL -->
